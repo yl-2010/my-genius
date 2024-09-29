@@ -159,8 +159,10 @@ p {
     top: 0;
     display: block;
     color: white;
-    height: 2.5%;
-    margin-top: .75%;
+    height: 2%;
+    margin-top: .5%;
+    margin-left: .5%;
+    margin-right: .5%;
     text-decoration: none;
     border-radius: 5px;
     font-size: smaller;
@@ -172,25 +174,6 @@ p {
 }
 .topelement:hover {
     background-color: rgb(83, 94, 111);
-}
-
-#arclogo {
-    left: 0;
-    margin-left: 1%;
-    margin-right: .75%;
-    padding: 1px;
-}
-#backarrow {
-    left: 19%;
-    margin-left: 1%;
-    margin-right: .75%;
-    padding: 1px;
-}
-#frontarrow {
-    left: 21%;
-    margin-left: 1%;
-    margin-right: .75%;
-    padding: 1px;
 }
 
 /* Favorite inactive: rgb(75, 89, 109) */
