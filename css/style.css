@@ -192,6 +192,20 @@ p {
     margin-right: .75%;
     padding: 1px;
 }
+#reload {
+    left: 23%;
+    margin-left: 1%;
+    margin-right: .75%;
+    padding: 1px;
+}
+#urlbar {
+    left: 50%;
+    margin-left: 1%;
+    margin-right: .75%;
+    padding: 1px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
 
 /* Favorite inactive: rgb(75, 89, 109) */
 /* Favorite inactive hover: rgb(93, 107, 127) */
