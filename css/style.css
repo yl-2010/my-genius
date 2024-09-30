@@ -24,6 +24,9 @@ h3 {
     color: rgb(74, 74, 98);
 }
 p {
+    font-size: medium;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(105, 105, 105);
 }
 
