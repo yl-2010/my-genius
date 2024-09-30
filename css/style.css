@@ -79,12 +79,15 @@ p {
     margin-right: 3%;
     margin-left: 3%;
     text-decoration: none;
-    border-radius: 5px;
+    border-radius: 7px;
     font-size: smaller;
     letter-spacing: .2px;
     border-color: rgba(92, 105, 108, 0);
     border-style: solid;
     border-width: 1px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 .navbar a:hover {
     background-color: rgb(83, 94, 111);
